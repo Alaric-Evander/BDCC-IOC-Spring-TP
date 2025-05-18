@@ -1,0 +1,2 @@
+net.bousmara.ext.DaoImpl2
+net.bousmara.metier.MetierImpl
